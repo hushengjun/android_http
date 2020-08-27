@@ -1,2 +1,2 @@
-# android_http
-android http 
+# android_sample_http
+android sample of http 
